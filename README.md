@@ -12,6 +12,8 @@ Bu repo, Linux sistem performans izleme araçları ve Kubernetes troubleshooting
 ### [📊 Linux Performans İzleme Araçları](sre-devops-rehber.md)
 Linux sistemlerde performans izleme ve sorun giderme için kullanılan temel araçların detaylı kullanım kılavuzu:
 
+📥 **[PDF İndir](https://cagatayuresin.github.io/sre-devops-rehber/assets/pdf/linux-performans-izleme.pdf)**
+
 - **vmstat** - Virtual Memory Statistics
 - **iostat** - I/O Statistics
 - **htop** - Interactive Process Viewer
@@ -27,6 +29,8 @@ Linux sistemlerde performans izleme ve sorun giderme için kullanılan temel ara
 
 ### [⚙️ Kubernetes Troubleshooting](kubernetes-troubleshooting.md)
 Kubernetes cluster yönetimi ve sorun giderme için pratik komutlar ve çözümler:
+
+📥 **[PDF İndir](https://cagatayuresin.github.io/sre-devops-rehber/assets/pdf/kubernetes-troubleshooting.pdf)**
 
 - Node İşlemleri
 - Pod Yönetimi ve Troubleshooting

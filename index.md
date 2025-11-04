@@ -15,6 +15,10 @@ Linux sistem performans izleme araçları ve Kubernetes troubleshooting konular�
 [Linux Performans Rehberi](sre-devops-rehber){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Kubernetes Troubleshooting](kubernetes-troubleshooting){: .btn .fs-5 .mb-4 .mb-md-0 }
 
+**📥 PDF İndir:**
+[Linux Performans PDF](assets/pdf/linux-performans-izleme.pdf){: .btn .btn-purple .fs-4 .mb-4 .mb-md-0 .mr-2 }
+[Kubernetes PDF](assets/pdf/kubernetes-troubleshooting.pdf){: .btn .btn-purple .fs-4 .mb-4 .mb-md-0 }
+
 ---
 
 ## 📚 Rehber İçeriği

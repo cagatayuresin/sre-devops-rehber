@@ -12,6 +12,8 @@ permalink: /kubernetes-troubleshooting
 Kubernetes cluster yönetimi ve sorun giderme için kapsamlı komut ve çözüm rehberi.
 {: .fs-6 .fw-300 }
 
+[PDF İndir]({{ site.baseurl }}/assets/pdf/kubernetes-troubleshooting.pdf){: .btn .btn-purple .fs-5 .mb-4 .mb-md-0 }
+
 ## İçindekiler
 {: .no_toc .text-delta }
 

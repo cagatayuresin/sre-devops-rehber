@@ -33,3 +33,6 @@ Desktop.ini
 *.swp
 *.swo
 *~
+
+# NOT: PDF dosyaları ignore edilmemelidir
+# assets/pdf/*.pdf dosyaları commit edilecek
