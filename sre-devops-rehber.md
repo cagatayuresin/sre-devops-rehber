@@ -12,7 +12,8 @@ permalink: /sre-devops-rehber
 Bu rehber, Linux sistemlerde performans izleme ve sorun giderme için kullanılan temel araçların detaylı kullanım kılavuzudur.
 {: .fs-6 .fw-300 }
 
-[PDF İndir]({{ site.baseurl }}/assets/pdf/linux-performans-izleme.pdf){: .btn .btn-purple .fs-5 .mb-4 .mb-md-0 }
+{: .note }
+> 📥 **PDF İndir:** [linux-performans-izleme.pdf]({{ site.baseurl }}/assets/pdf/sre-devops-rehber.pdf) *(PDF dosyasını assets/pdf/ klasörüne ekledikten sonra bu link çalışacaktır)*
 
 ## İçindekiler
 {: .no_toc .text-delta }
