@@ -1,0 +1,32 @@
+# GitHub Pages Jekyll Konfigürasyonu
+title: SRE/DevOps Rehber
+description: Linux Performans İzleme ve Kubernetes Troubleshooting Rehberi
+theme: jekyll-theme-cayman
+show_downloads: false
+
+# Site ayarları
+baseurl: ""
+url: "https://cagatayuresin.github.io"
+
+# Markdown işlemcisi
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Eklentiler
+plugins:
+  - jekyll-relative-links
+  - jekyll-seo-tag
+
+# Relative links ayarı
+relative_links:
+  enabled: true
+  collections: false
+
+# Sayfa başlıkları
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
