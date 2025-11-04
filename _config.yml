@@ -1,32 +1,70 @@
-# GitHub Pages Jekyll Konfigürasyonu
+# Just the Docs Konfigürasyonu
 title: SRE/DevOps Rehber
 description: Linux Performans İzleme ve Kubernetes Troubleshooting Rehberi
-theme: jekyll-theme-cayman
-show_downloads: false
+remote_theme: just-the-docs/just-the-docs
 
 # Site ayarları
-baseurl: ""
+baseurl: "/sre-devops-rehber"
 url: "https://cagatayuresin.github.io"
+
+# Renk teması
+color_scheme: dark
+
+# Arama özelliği
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# Navigation ayarları
+nav_sort: case_insensitive
+
+# Footer
+footer_content: "Copyright &copy; 2025 Çağatay Üresin. SRE/DevOps Türkçe Kaynak."
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Yukarı çık"
+
+# Heading anchors
+heading_anchors: true
+
+# Aux links (sağ üstte görünecek)
+aux_links:
+  "GitHub":
+    - "https://github.com/cagatayuresin/sre-devops-rehber"
+
+# Aux links yeni sekmede açılsın
+aux_links_new_tab: true
+
+# Code kopyalama butonu
+enable_copy_code_button: true
+
+# Callouts
+callouts_level: quiet
+callouts:
+  warning:
+    title: Uyarı
+    color: red
+  note:
+    title: Not
+    color: blue
+  tip:
+    title: İpucu
+    color: green
 
 # Markdown işlemcisi
 markdown: kramdown
 kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
 
 # Eklentiler
 plugins:
-  - jekyll-relative-links
   - jekyll-seo-tag
-
-# Relative links ayarı
-relative_links:
-  enabled: true
-  collections: false
-
-# Sayfa başlıkları
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default

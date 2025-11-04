@@ -1,4 +1,24 @@
+---
+layout: default
+title: Kubernetes Troubleshooting
+nav_order: 3
+description: "Kubernetes cluster yönetimi ve sorun giderme için pratik komutlar ve çözümler"
+permalink: /kubernetes-troubleshooting
+---
+
 # Kubernetes Troubleshooting Rehberi
+{: .no_toc }
+
+Kubernetes cluster yönetimi ve sorun giderme için kapsamlı komut ve çözüm rehberi.
+{: .fs-6 .fw-300 }
+
+## İçindekiler
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## 🔧 Node İşlemleri
 

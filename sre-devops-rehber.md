@@ -1,14 +1,26 @@
+---
+layout: default
+title: Linux Performans İzleme
+nav_order: 2
+description: "Linux sistemlerde performans izleme ve sorun giderme için kullanılan araçların detaylı kullanım kılavuzu"
+permalink: /sre-devops-rehber
+---
+
 # Linux Performans İzleme Araçları - SRE/DevOps Profesyonel Rehber
+{: .no_toc }
+
+Bu rehber, Linux sistemlerde performans izleme ve sorun giderme için kullanılan temel araçların detaylı kullanım kılavuzudur.
+{: .fs-6 .fw-300 }
 
 ## İçindekiler
+{: .no_toc .text-delta }
 
-1. [vmstat - Virtual Memory Statistics](#vmstat---virtual-memory-statistics)
-  - [Genel Bakış](#genel-bakış)
-  - [Kullanım Örnekleri](#kullanım-örnekleri)
-  - [Çıktı Açıklaması](#çıktı-açıklaması)
-  - [Alarm Kriterleri](#alarm-kriterleri-1)
-  - [SRE Best Practices](#sre-best-practices)
-2. [iostat - I/O Statistics](#iostat---i-o-statistics)
+1. TOC
+{:toc}
+
+---
+
+## vmstat - Virtual Memory Statistics
   - [Genel Bakış](#genel-bakış-1)
   - [Kurulum](#kurulum)
   - [Kullanım Örnekleri](#kullanım-örnekleri-1)

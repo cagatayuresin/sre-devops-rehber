@@ -1,6 +1,11 @@
 # 🚀 SRE/DevOps Rehber
 
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-success)](https://cagatayuresin.github.io/sre-devops-rehber/)
+[![License](https://img.shields.io/badge/License-Open%20Source-blue)](LICENSE)
+
 Bu repo, Linux sistem performans izleme araçları ve Kubernetes troubleshooting konularında kapsamlı Türkçe kaynaklar içermektedir.
+
+**🌐 Canlı Site:** [https://cagatayuresin.github.io/sre-devops-rehber/](https://cagatayuresin.github.io/sre-devops-rehber/)
 
 ## 📚 İçerik
 
