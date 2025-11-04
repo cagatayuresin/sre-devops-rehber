@@ -1,7 +1,7 @@
 # 🚀 SRE/DevOps Rehber
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-success)](https://cagatayuresin.github.io/sre-devops-rehber/)
-[![License](https://img.shields.io/badge/License-Open%20Source-blue)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Bu repo, Linux sistem performans izleme araçları ve Kubernetes troubleshooting konularında kapsamlı Türkçe kaynaklar içermektedir.
 
@@ -56,7 +56,7 @@ Bu rehber açık kaynak bir projedir ve katkılarınızı bekliyoruz! Pull reque
 
 ## 📝 Lisans
 
-Bu proje açık kaynak kodludur ve herkes tarafından kullanılabilir.
+Bu proje [MIT lisansı](LICENSE) altında lisanslanmıştır. Herkes tarafından özgürce kullanılabilir, değiştirilebilir ve dağıtılabilir.
 
 ## 📧 İletişim
 
